@@ -7,13 +7,13 @@ Tool ini dibuat sebagai produk kecil mandiri, bukan sekadar latihan.
 
 🎯 Untuk Siapa Tool Ini?
 
-Pengguna umum yang menyimpan dokumen penting / foto
+- Pengguna umum yang menyimpan dokumen penting / foto
 
-Pelajar atau mahasiswa
+- Pelajar atau mahasiswa
 
-Pengguna laptop dengan koneksi internet terbatas
+- Pengguna laptop dengan koneksi internet terbatas
 
-Orang yang ingin backup tanpa cloud & tanpa login
+- Orang yang ingin backup tanpa cloud & tanpa login
 
 ✨ Fitur Utama
 
@@ -33,48 +33,51 @@ Orang yang ingin backup tanpa cloud & tanpa login
 
 Banyak tool backup:
 
-Terlalu rumit
+- Terlalu rumit
 
-Perlu akun / cloud
+- Perlu akun / cloud
 
-Berbayar mahal
+- Berbayar mahal
 
-Tidak ramah pemula
+- Tidak ramah pemula
 
-Snapshot Backup CLI fokus pada kesederhanaan & keandalan.
+- Snapshot Backup CLI fokus pada kesederhanaan & keandalan.
 
 🚀 Cara Pakai (3 Langkah)
 
-Download snapshot_backup.exe dari GitHub Release
+- Download snapshot_backup.exe dari GitHub Release
 
-Jalankan file .exe
+- Jalankan file .exe
 
-Pilih menu:
+- Pilih menu:
 
-Snapshot File
+- Snapshot File
 
-Snapshot Folder
+- Snapshot Folder
 
-Restore Snapshot
+- Restore Snapshot
 
-Folder backup akan otomatis dibuat di:
+- Folder backup akan otomatis dibuat di:
 
-backup/snapshots/
+- backup/snapshots/
 
 📁 Struktur Output
 backup/
  ├── snapshots/
+ 
  │    ├── 2025-01-01_10-00-00/
+ 
  │    └── 2025-01-02_12-30-10/
+ 
  └── backup.log
 
 🔐 Keamanan & Privasi
 
-Tidak mengirim data ke internet
+- Tidak mengirim data ke internet
 
-Tidak mengakses file selain yang dipilih pengguna
+- Tidak mengakses file selain yang dipilih pengguna
 
-Semua proses berjalan lokal di komputer
+- Semua proses berjalan lokal di komputer
 
 📦 Download
 
@@ -93,8 +96,8 @@ Dibuat sebagai: Produk kecil offline & portofolio
 
 Jika ingin mengembangkan:
 
-Fork repo
+- Fork repo
 
-Buat branch baru
+- Buat branch baru
 
-Jangan mengedit langsung versi stabil
+- Jangan mengedit langsung versi stabil
