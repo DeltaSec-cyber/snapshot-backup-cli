@@ -1,47 +1,100 @@
-# Snapshot Backup CLI
+📦 Snapshot Backup CLI
 
-Snapshot Backup CLI adalah tools backup **offline** berbasis command-line
-untuk melakukan snapshot file dan folder secara cepat dan aman.
-Dikemas menjadi **satu file .exe**, tanpa cloud, tanpa instalasi tambahan.
+Snapshot Backup CLI adalah tool backup offline sederhana untuk file dan folder penting.
+Dirancang untuk pengguna yang ingin backup cepat, aman, tanpa cloud, tanpa akun, dan tanpa ribet.
 
-## Fitur Utama
-- Snapshot file
-- Snapshot folder
-- Restore snapshot
-- Logging aktivitas backup & restore
-- Portable (cukup 1 file .exe)
+Tool ini dibuat sebagai produk kecil mandiri, bukan sekadar latihan.
 
-## Cara Menggunakan
-1. Jalankan `snapshot_backup.exe`
-2. Pilih menu:
-   - Snapshot File
-   - Snapshot Folder
-   - Restore Snapshot
-3. Folder `backup/` akan dibuat otomatis di lokasi tool dijalankan
+🎯 Untuk Siapa Tool Ini?
 
-## Struktur Folder
+Pengguna umum yang menyimpan dokumen penting / foto
+
+Pelajar atau mahasiswa
+
+Pengguna laptop dengan koneksi internet terbatas
+
+Orang yang ingin backup tanpa cloud & tanpa login
+
+✨ Fitur Utama
+
+✅ Snapshot file dan folder
+
+✅ Folder snapshot otomatis berbasis waktu
+
+✅ Restore snapshot dengan aman
+
+✅ Logging aktivitas backup
+
+✅ Offline (tidak perlu internet)
+
+✅ Portable .exe (Windows)
+
+🧠 Kenapa Tool Ini Dibuat?
+
+Banyak tool backup:
+
+Terlalu rumit
+
+Perlu akun / cloud
+
+Berbayar mahal
+
+Tidak ramah pemula
+
+Snapshot Backup CLI fokus pada kesederhanaan & keandalan.
+
+🚀 Cara Pakai (3 Langkah)
+
+Download snapshot_backup.exe dari GitHub Release
+
+Jalankan file .exe
+
+Pilih menu:
+
+Snapshot File
+
+Snapshot Folder
+
+Restore Snapshot
+
+Folder backup akan otomatis dibuat di:
+
+backup/snapshots/
+
+📁 Struktur Output
 backup/
-├── snapshots/
-│ ├── 2025-01-01_10-00-00/
-│ └── 2025-01-01_11-00-00/
-└── backup.log
+ ├── snapshots/
+ │    ├── 2025-01-01_10-00-00/
+ │    └── 2025-01-02_12-30-10/
+ └── backup.log
 
-## Catatan Penting
-- Tools ini **100% offline**
-- Tidak mengirim data ke internet
-- Simpan file `.exe` di satu folder khusus
-- Disarankan menjalankan tool dengan izin yang cukup (read/write)
+🔐 Keamanan & Privasi
 
-## Target Pengguna
-- Pengguna umum
-- Pelajar
-- Pengguna laptop dengan file penting
-- Orang yang ingin backup sederhana tanpa cloud
+Tidak mengirim data ke internet
 
-## Status Project
-Versi stabil **v1.0.0**  
-Project ini adalah **produk kecil offline**, bukan sekadar latihan.
+Tidak mengakses file selain yang dipilih pengguna
 
----
+Semua proses berjalan lokal di komputer
 
-Dibangun oleh: Delta
+📦 Download
+
+➡️ Lihat tab Releases
+➡️ Download: snapshot_backup.exe
+
+🧩 Status Project
+
+Versi: v1.0.0
+
+Status: Stabil & Siap Digunakan
+
+Dibuat sebagai: Produk kecil offline & portofolio
+
+🛠 Catatan Pengembang
+
+Jika ingin mengembangkan:
+
+Fork repo
+
+Buat branch baru
+
+Jangan mengedit langsung versi stabil
