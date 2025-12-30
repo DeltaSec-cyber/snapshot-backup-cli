@@ -108,10 +108,10 @@ Jika ingin mengembangkan:
 ## 🖼 Screenshot
 
 ### Menu Utama
-![Menu](screenshots/screenshot menu.png)
+![screenshot Menu](screenshots/screenshot menu.png)
 
 ### Snapshot Berhasil
-![Snapshot](screenshots/screenshot snapshot-success.png)
+![screenshot Snapshot](screenshots/screenshot snapshot-success.png)
 
 ### Struktur Backup
-![Backup Structure](screenshots/screenshot backup-structure.png)
+![screenshot Backup-Structure](screenshots/screenshot backup-structure.png)
