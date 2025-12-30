@@ -104,3 +104,14 @@ Jika ingin mengembangkan:
 - Buat branch baru
 
 - Jangan mengedit langsung versi stabil
+
+## 🖼 Screenshot
+
+### Menu Utama
+![Menu](screenshots/screenshot menu.png)
+
+### Snapshot Berhasil
+![Snapshot](screenshots/screenshot snapshot-success.png)
+
+### Struktur Backup
+![Backup Structure](screenshots/screenshot backup-structure.png)
