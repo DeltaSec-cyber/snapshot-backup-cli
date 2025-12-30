@@ -104,6 +104,19 @@ Jika ingin mengembangkan:
 - Buat branch baru
 
 - Jangan mengedit langsung versi stabil
+  
+## 📥 Installation
+
+1. Buka tab **Releases**
+2. Download `snapshot_backup.exe`
+3. Jalankan langsung (tidak perlu instalasi)
+## ⚠️ Limitations
+
+- Tool ini belum memiliki enkripsi bawaan
+- Belum ada verifikasi integritas snapshot
+- Snapshot bersifat full copy (belum deduplication)
+- Direkomendasikan untuk penggunaan personal / skala kecil
+
 
 ## 🖼 Screenshot
 
