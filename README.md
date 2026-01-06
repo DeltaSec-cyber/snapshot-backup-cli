@@ -81,6 +81,27 @@ backup/
 - Tidak mengakses file selain yang dipilih pengguna
 
 - Semua proses berjalan lokal di komputer
+  
+KENAPA WINDOWS MENAMPILKAN PERINGATAN?
+
+Snapshot Backup CLI adalah aplikasi backup sederhana yang dibuat khusus
+untuk usaha kecil / warnet / kantor kecil.
+
+Windows Defender atau SmartScreen terkadang menampilkan peringatan
+untuk aplikasi baru yang belum memiliki reputasi atau tanda tangan digital.
+Hal ini umum terjadi pada aplikasi buatan lokal atau aplikasi mandiri
+yang tidak diunduh dari Microsoft Store.
+
+Penting untuk diketahui:
+- Aplikasi ini berjalan secara OFFLINE
+- Tidak mengirim data ke internet
+- Tidak mengubah sistem Windows
+- Hanya menyalin file yang dipilih user
+- User dapat melihat file yang akan di-backup terlebih dahulu
+  melalui fitur Preview (Dry-Run)
+
+Jika Anda merasa ragu, silakan jalankan fitur Preview terlebih dahulu
+untuk memastikan file yang diproses sudah sesuai sebelum melakukan backup.
 
 📦 Download
 
